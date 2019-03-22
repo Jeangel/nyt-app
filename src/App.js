@@ -7,7 +7,6 @@ import Routes from './routes/routes';
 
 class App extends Component {
   render() {
-    console.log(process.env);
     return (
       <Routes></Routes>
     );
