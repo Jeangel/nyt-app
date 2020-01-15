@@ -1,6 +1,6 @@
 # New York Times API - React App
 
-## Configuration
+## Configuration 
 
 After downloading the project, go to the root folder and use
 
@@ -19,3 +19,6 @@ That's all. Now run it with
 ```
 npm start
 ```
+
+
+
