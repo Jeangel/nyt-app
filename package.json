@@ -2,7 +2,7 @@
   "name": "nyt-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jeangel.dev",
+  "homepage": "https://jeangel.github.io",
   "dependencies": {
     "@reach/router": "^1.2.1",
     "bootstrap": "^4.3.1",
