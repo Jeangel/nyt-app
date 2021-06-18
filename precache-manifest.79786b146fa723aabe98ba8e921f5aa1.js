@@ -24,16 +24,16 @@ self.__precacheManifest = [
     "url": "/nyt-app/static/media/no-thumbnail.f4848e1f.jpg"
   },
   {
-    "revision": "24a77b8baa5b34fb50814225fae0272d",
-    "url": "/nyt-app/static/media/fa-brands-400.24a77b8b.woff2"
+    "revision": "28c2e91df5676f8a615bd3d519f0757b",
+    "url": "/nyt-app/static/media/fa-brands-400.28c2e91d.eot"
   },
   {
     "revision": "175ef492f87a05e2ce45cb701d62c450",
     "url": "/nyt-app/static/media/fa-brands-400.175ef492.woff"
   },
   {
-    "revision": "28c2e91df5676f8a615bd3d519f0757b",
-    "url": "/nyt-app/static/media/fa-brands-400.28c2e91d.eot"
+    "revision": "24a77b8baa5b34fb50814225fae0272d",
+    "url": "/nyt-app/static/media/fa-brands-400.24a77b8b.woff2"
   },
   {
     "revision": "73e57f339e3e8574d0d4bc7a7c412d2a",
@@ -44,10 +44,6 @@ self.__precacheManifest = [
     "url": "/nyt-app/static/media/fa-regular-400.34e0db45.woff2"
   },
   {
-    "revision": "7599ecd0c99d05133229e0c4822b3086",
-    "url": "/nyt-app/static/media/fa-regular-400.7599ecd0.ttf"
-  },
-  {
     "revision": "c6e6643b688fe307651aa9374343d194",
     "url": "/nyt-app/static/media/fa-regular-400.c6e6643b.woff"
   },
@@ -56,20 +52,24 @@ self.__precacheManifest = [
     "url": "/nyt-app/static/media/fa-brands-400.8742c029.ttf"
   },
   {
+    "revision": "7599ecd0c99d05133229e0c4822b3086",
+    "url": "/nyt-app/static/media/fa-regular-400.7599ecd0.ttf"
+  },
+  {
     "revision": "47758afd15884569fa987bb98ec2348f",
     "url": "/nyt-app/static/media/fa-regular-400.47758afd.svg"
   },
   {
-    "revision": "cb45ce038f8d6ccf24a4307993230f8b",
-    "url": "/nyt-app/static/media/fa-solid-900.cb45ce03.eot"
+    "revision": "ecafd67cb64dc8f4d064abcf680dd924",
+    "url": "/nyt-app/static/media/fa-solid-900.ecafd67c.woff"
   },
   {
     "revision": "fb4ea3247aace8c1c8bcf904772a91c7",
     "url": "/nyt-app/static/media/fa-solid-900.fb4ea324.woff2"
   },
   {
-    "revision": "ecafd67cb64dc8f4d064abcf680dd924",
-    "url": "/nyt-app/static/media/fa-solid-900.ecafd67c.woff"
+    "revision": "cb45ce038f8d6ccf24a4307993230f8b",
+    "url": "/nyt-app/static/media/fa-solid-900.cb45ce03.eot"
   },
   {
     "revision": "26fdf2ddc0e845cc454b72c97cdc705c",
